@@ -1,1 +1,1 @@
-API project in Djanfo Frame Work
+API project in Django Frame Work
